@@ -1,6 +1,8 @@
 # CS 5660: Advanced Topics in Artificial Intelligence
 ## Final Project: Recommender System for Books
 
+As assigned in CS 5660 as final project and completed in a group of four.
+
 Software Requirements: 
   - Our code is in a Jupyter Notebook file and can be run via Google Colab or locally using suitable hardware.
 
