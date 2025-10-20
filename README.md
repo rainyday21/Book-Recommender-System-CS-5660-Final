@@ -1,4 +1,5 @@
 # CS 5660: Advanced Topics in Artificial Intelligence
+## Final Project: Recommender System for Books
 
 Software Requirements: 
   - Our code is in a Jupyter Notebook file and can be run via Google Colab or locally using suitable hardware.
@@ -12,6 +13,6 @@ Steps to set up the environment:
 
 
 
-Command-line instructions or GUI Usage: 
+Command-line instructions: 
 
 - The system will prompt the user for their favorite book and favorite genre. Thus it will require two command-line inputs from the user and you should see 10 recommended books at most along with the evaluation metrics: precision, recall, f1-score, MAP, MRR
